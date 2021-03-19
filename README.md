@@ -1,2 +1,2 @@
 # NLP_amazon_reviews
-Predict sentiment from Amazon reviews using Natural Language Processing
+Predict sentiment of input text using a Natural Language Processing model trained by sample Amazon reviews.
